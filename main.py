@@ -7,3 +7,7 @@ while True :
     x = random.randint(1,17)
     print(facts[x])
     time.sleep(1)
+
+
+    # hej tutaj nowa 
+    
